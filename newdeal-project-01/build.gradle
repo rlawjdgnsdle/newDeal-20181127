@@ -18,3 +18,5 @@ dependencies {
 }
 
 mainClassName = 'bitcamp.newdeal.lms.App'
+
+    
